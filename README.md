@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarishSingh2095
+- 👋 Hello all my name is Harish Singh and my ID: @HarishSingh2095
 - 👀 I’m interested in becoming a Data Enthusiast.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine Learning models on GitHub
