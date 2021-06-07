@@ -1,4 +1,4 @@
-- 👋 Hello all my name is Harish Singh and my ID: @HarishSingh2095
+- 👋 Hello all, My name is Harish Singh and my ID: @HarishSingh2095
 - 👀 I am interested in Data Science.
 - 🌱 I’m currently learning Data Science, Artificial Intelligence and Machine Learning, Neural Network, Deep Learning Techniques.
 - 💞️ I’m looking to collaborate on Machine Learning models on GitHub
